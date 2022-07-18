@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1658060610 source:f:\university\code\c++\snake\main.cpp
+	"Init.h"
+	"Music.h"
+	"Chunk.h"
+	"Image.h"
+	"Texture.h"
+	"Word.h"
+	"Snake.h"
+	"Fruit.h"
+	"GameProcess.h"
+
+1658113741 f:\university\code\c++\snake\init.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<vector>
+	<string>
+	<fstream>
+
+1652955350 f:\university\code\c++\snake\music.h
+
+1652974408 f:\university\code\c++\snake\chunk.h
+
+1649729575 f:\university\code\c++\snake\image.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+
+1657612251 f:\university\code\c++\snake\texture.h
+	"Chunk.h"
+
+1658113741 f:\university\code\c++\snake\gameprocess.h
+
+1658113741 f:\university\code\c++\snake\snake.h
+
+1658113741 f:\university\code\c++\snake\fruit.h
+
+1658028751 f:\university\code\c++\snake\word.h
+
